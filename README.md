@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi  I'm donngchao 👋
 
-<!--
-**donngchao/donngchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* Blog: https://my.oschina.net/donngchao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently trying to improve work efficiency through programming
+
+### Github stats
+![yzddmr6](https://github-readme-stats.vercel.app/api?username=donngchao&show_icons=true&theme=tokyonight)
+
+
+### Visitors
+![yzddmr6](https://profile-counter.glitch.me/donngchao/count.svg)
